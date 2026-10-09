@@ -21,8 +21,16 @@ A FOSS YouTube Music client for Android and Desktop with many features from<br>S
 > [kotlin-footguns](https://github.com/maxrave-dev/kotlin-footguns) — the Kotlin, Compose Multiplatform and desktop JVM traps this project ran into the hard way. Star it if it saves you a night.
 
 [![Sponsor](https://readme.cash/i/janwgx1dnp.svg)](https://readme.cash/c/janwgx1dnp)
+
+
+
+## Login 
+<img width="753" height="727" alt="image" src="https://github.com/user-attachments/assets/0d1e45e7-aeba-465d-9b2e-a3ce6883620f" /> <img width="694" height="495" alt="image" src="https://github.com/user-attachments/assets/d1a271ee-84c6-4434-87ee-74a987d3e08f" />
+
+<img width="763" height="411" alt="image" src="https://github.com/user-attachments/assets/067e2b06-4b24-4f31-b674-2c3933fa5ee9" />
+
   
-## Features ✨️    
+## Features ✨️
 - Play music from YouTube Music or YouTube for free, without ads and in the background
 - Three Now Playing styles: Classic, Material 3 Expressive and Apple Music (NEW)
 - Ten-band equalizer with presets and AutoEq headphone profiles, plus Delay and Reverb effects, or your phone's system equalizer on Android (NEW)
